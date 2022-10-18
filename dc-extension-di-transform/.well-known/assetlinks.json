@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.inkglobal.cebu.android.qa",
+    "sha256_cert_fingerprints":
+    ["5C:F8:A5:5B:FC:6E:FA:A9:9C:29:AC:20:4C:FB:54:F2:1F:87:76:01:2D:EE:86:2A:6E:63:8F:ED:37:B5:D8:66"]
+  }
+}]
